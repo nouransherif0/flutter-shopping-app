@@ -1,0 +1,59 @@
+{
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "invalid_email": "Enter a valid email (must include @)",
+    "invalid_password": "Password must be at least 6 characters",
+    "success": "Success",
+    "signin_success": "Account signed in successfully",
+    "close": "Close",
+    "intro_text": "Welcome to Velora – Where style meets simplicity.",
+    "full_name": "Full Name",
+    "enter_full_name": "Enter your full name",
+    "first_letter_uppercase": "First letter must be uppercase",
+    "confirm_password": "Confirm Password",
+    "passwords_do_not_match": "Passwords do not match",
+    "signup_success": "Account created successfully 🎉",
+  
+    "our_products": "Our Products",
+    "featured_products": "Featured Products",
+    "hot_offers": "Hot Offers",
+    "item_added_cart": "Item added to cart!",
+  
+    "red_dress": "Red Dress",
+    "price_red_dress": "70$",
+  
+    "formal_suit": "Formal Suit",
+    "price_formal_suit": "120$",
+  
+    "sneakers": "Sneakers",
+    "price_sneakers": "55$",
+  
+    "white_dress": "White Dress",
+    "price_white_dress": "50$",
+  
+    "basic_dress": "Basic Dress",
+    "price_basic_dress": "40$",
+  
+    "jeans": "Jeans",
+    "price_jeans": "60$",
+  
+    "sweatpants": "Sweatpants",
+    "price_sweatpants": "35$",
+  
+    "white_chemise": "White Chemise",
+    "price_white_chemise": "45$",
+  
+    "slippers": "Slippers",
+    "price_slippers": "25$",
+  
+    "promo_50": "50% OFF",
+    "promo_bogo": "Buy 1 Get 1 Free",
+    "promo_new": "Discount on New Arrivals",
+    "promo_limited": "Limited-time Offer",
+    "promo_ship": "Free Shipping",
+    "logout": "Logout",
+    "logout_success": "You have been logged out"
+  }
+  
